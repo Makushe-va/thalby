@@ -4,29 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4c311ab-44e1-4a1d-a171-fd4e7af23dc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FB.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Frame (1).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Frame (2).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Frame.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Inst.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Logo-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle (1).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle (2).svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle копія 2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle копія.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Rectangle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Tw.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/image 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/image 2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/image 3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/image 4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scr.js" afterDir="false" />
+    <list default="true" id="a4c311ab-44e1-4a1d-a171-fd4e7af23dc4" name="Changes" comment="1 version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scr.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Makushe-va&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Makushe-va/thalby.git&quot;,
+    &quot;accountId&quot;: &quot;b475022d-4bce-4370-9723-b8b5e7c90f0e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -96,11 +90,25 @@
       <updated>1741282830034</updated>
       <workItem from="1741282831145" duration="6069000" />
       <workItem from="1741627140154" duration="24706000" />
-      <workItem from="1741798565068" duration="8096000" />
+      <workItem from="1741798565068" duration="9225000" />
+      <workItem from="1741860061099" duration="5043000" />
     </task>
+    <task id="LOCAL-00001" summary="1 version">
+      <option name="closed" value="true" />
+      <created>1741808071323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741808071323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 version" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 version" />
   </component>
 </project>

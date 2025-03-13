@@ -15,3 +15,10 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     setInterval(rotateCards, 3000);
 });
+document.addEventListener("DOMContentLoaded", function () {
+    let myCarousel = document.querySelector("#carouselExampleDark");
+    let carousel = new bootstrap.Carousel(myCarousel, {
+        interval: 3000, // Интервал смены слайдов
+        wrap: true, // Позволяет зациклить карусель
+    });
+});
