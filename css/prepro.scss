@@ -75,7 +75,7 @@ $text-style-secondary: 'Roboto", sans-serif' 700;
 .banner img{
   width: 100%;
   max-width: 599px;
-  height: auto;
+  height: 521px;
 }
 .guides-tittle{
   font: $text-style-secondary;
@@ -121,10 +121,10 @@ $text-style-secondary: 'Roboto", sans-serif' 700;
   text-align: center;
   max-width: 350px;
 }
-.guides-card-img{
-  max-width: 309px;
+.product-card-img{
+  max-width: 315px;
   width: 100%;
-  height: auto;
+  height: 430px;
   margin-bottom: 26.95px;
 }
 .guides-card-tittle{
@@ -175,7 +175,7 @@ $text-style-secondary: 'Roboto", sans-serif' 700;
 }
 .articles-photo{
   max-width: 385px;
-  height: auto;
+  height: 525px;
   width: 100%;
 }
 .articles-tittle{
@@ -376,10 +376,12 @@ footer{
 .footer-logo img{
   min-width: 129px;
   height: 41px;
+}
+.footer-logo{
   margin-bottom: 26px;
   transition: transform 0.3s ease-in-out;
 }
-.footer-logo img:hover{
+.footer-logo:hover{
   transform: scale(1.5);
 }
 .footer-social-link{
